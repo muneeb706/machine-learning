@@ -1,2 +1,2 @@
 # Machine Learning
-Solutions of common / small machine learning problems
+Machine learning problems solved with different types of algorithms.
